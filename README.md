@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sachin!</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F74343&width=435&lines=Welcome+To+My+World+%3A))](https://git.io/typing-svg)
+###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F74343&width=435&lines=Welcome+To+My+World+%3A))](https://git.io/typing-svg)
 <h3 align="center">A passionate coder and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinxcode313&label=Profile%20views&color=0e75b6&style=flat" alt="sachinxcode313" /> </p>
