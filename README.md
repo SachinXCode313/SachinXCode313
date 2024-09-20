@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinxcode313&show_icons=true&locale=en" alt="sachinxcode313" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinxcode313&" alt="sachinxcode313" /></p>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*g3zcRSjUu50p7_1brc9c2Q.gif" />
