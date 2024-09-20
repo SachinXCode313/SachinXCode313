@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Sachin!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F74343&width=435&lines=Welcome+To+My+World+%3A))](https://git.io/typing-svg)
+<h3 align="center">A passionate coder and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinxcode313&label=Profile%20views&color=0e75b6&style=flat" alt="sachinxcode313" /> </p>
 
@@ -7,10 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_gupta313" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_gupta313?logo=twitter&style=for-the-badge" alt="sachin_gupta313" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-- 💬 Ask me about **any technologies**
+**Talking about Personal Stuffs:**
 
+- 🔭 I’m currently Intern at CodeUp.
+- 🌱 I’m currently learning React Native.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me **sachin914597@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
