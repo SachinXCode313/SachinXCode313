@@ -1,4 +1,4 @@
-<span align="center">Hey 👋, I'm Sachin!</span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+<h1 align="center">Hey 👋, I'm Sachin!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"></h1>
 <h3 align="center">A passionate coder and developer</h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinxcode313&label=Profile%20views&color=0e75b6&style=flat" alt="sachinxcode313" /> </p>
