@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sachin!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"></h1>
-<h3 align="center">A passionate coder and developer</h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
-
+<h3 align="center">A passionate coder and developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinxcode313&label=Profile%20views&color=0e75b6&style=flat" alt="sachinxcode313" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinxcode313" alt="sachinxcode313" /></a> </p>
@@ -17,7 +16,7 @@
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me **sachin914597@gmail.com**
 
-<h3 align="left">Connect with me:</h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<h3 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
 <a href="https://twitter.com/sachin_gupta313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin_gupta313" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachingupta313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachingupta313/" height="30" width="40" /></a>
