@@ -1,4 +1,5 @@
-### Hello World 👋 It's [Sachin!](https://sakigo9.github.io/MyPortfolio/)
+### Hey👋 It's [Sachin!]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F74343&width=435&lines=Welcome+To+My+World+%3A))](https://git.io/typing-svg)
 
 <br/>
 
