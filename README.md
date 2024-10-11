@@ -2,10 +2,10 @@
 <h3 align="center">A passionate coder and developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
 <p align="center">
 <h4 align="center">Profile Views</h4>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
 </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 </p>
 
 
