@@ -14,7 +14,6 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/{jinx-vi-0}/count.svg" alt="Visitor Count" />
 </p>
-</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinxcode313" alt="sachinxcode313" /></a> </p>
