@@ -1,6 +1,12 @@
 <h1 align="center">Hey 👋, I'm Sachin!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"></h1>
-<h3 align="center">A passionate coder and developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
+<h2>Talking about Personal Stuffs:</h2>
+
+- 🔭 I’m currently Intern at CodeUp.
+- 🌱 I’m currently learning React Native.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me **sachin914597@gmail.com**
 <p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
@@ -15,13 +21,7 @@
 
 <img  width="400" align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<h2>Talking about Personal Stuffs:</h2>
 
-- 🔭 I’m currently Intern at CodeUp.
-- 🌱 I’m currently learning React Native.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me **sachin914597@gmail.com**
 
 <h2 align="left">Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 <p align="left">
