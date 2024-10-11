@@ -7,11 +7,12 @@
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me **sachin914597@gmail.com**
-</hr>
+
+
 <p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/{jinx-vi-0}/count.svg" alt="Visitor Count" />
 </p>
 </p>
 
