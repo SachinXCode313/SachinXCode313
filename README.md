@@ -7,6 +7,7 @@
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me **sachin914597@gmail.com**
+</hr>
 <p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
