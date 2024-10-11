@@ -4,8 +4,10 @@
 <h4 align="center">Profile Views</h4>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
-</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
+</p>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinxcode313" alt="sachinxcode313" /></a> </p>
 
