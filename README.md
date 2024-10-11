@@ -4,8 +4,8 @@
 <h4 align="center">Profile Views</h4>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 </p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 </p>
 
 
