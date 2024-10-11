@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_gupta313" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_gupta313?logo=twitter&style=for-the-badge" alt="sachin_gupta313" /></a> </p>
 
-<img  width="400" align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img  width="300" align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 
