@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋, I'm Sachin!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"></h1>
 <h3 align="center">A passionate coder and developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px"></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinxcode313&label=Profile%20views&color=0e75b6&style=flat" alt="sachinxcode313" /> </p>
+<p align="center">
+<h4 align="center">Profile Views</h4>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinxcode313" alt="sachinxcode313" /></a> </p>
 
