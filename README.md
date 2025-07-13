@@ -9,15 +9,6 @@
 - 📫 How to reach me **sachin914597@gmail.com**
 
 
-<p align="center">
-<h4 align="center">Profile Views</h4>
-<p align="center">
-<img src="https://profile-counter.glitch.me/{SachinXCode313}/count.svg" alt="Visitor Count" />
-</p>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinxcode313" alt="sachinxcode313" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sachin_gupta313" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_gupta313?logo=twitter&style=for-the-badge" alt="sachin_gupta313" /></a> </p>
 
 <img  width="400" align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
