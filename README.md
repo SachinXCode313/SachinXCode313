@@ -2,8 +2,9 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 <h2>Talking about Personal Stuffs:</h2>
 
-- 🔭 I’m currently Intern at CodeUp.
-- 🌱 I’m currently learning React Native.
+- 💼 Currently working as a Software Engineer in FusionHawk. 
+- 😎 A member of CodeUp Team.
+- 🔭 I am exploring myself.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me **sachin914597@gmail.com**
